@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Exec=/home/delamain/installed/pycharm-community-2021.2.3/bin/pycharm.sh
+Exec=/home/$USER/$PyCharmHomePATH/bin/pycharm.sh
 #Icon=org.xfce.terminalemulator
 Icon=kali-powersploit
 StartupNotify=true
